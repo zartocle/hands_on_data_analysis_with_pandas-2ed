@@ -5,3 +5,5 @@ __pycache__/
 *.png
 *.dot
 build/
+*_venv
+.idea
